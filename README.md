@@ -8,7 +8,7 @@
 
 **Quick Start**
 
-1. Create (optional) and activate a Python virtual environment:
+1. Create and activate a Python virtual environment:
 
 ```bash
 python -m venv venv
@@ -42,9 +42,9 @@ streamlit run Email.py
 
 ## Confusion Matrix
 
- ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
+ ![Input Form](https://github.com/Arshad-5068/AML-Task-4-/blob/main/confusion%20matrix.png?raw=true)  
 
 
 ## Dashboard
 
- ![Input Form](https://github.com/arshad-perampalli/Heart_Disease_Prediction/blob/main/output1.png?raw=true)  
+ ![Input Form](https://github.com/Arshad-5068/AML-Task-4-/blob/main/output.png?raw=true)  
